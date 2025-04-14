@@ -1,3 +1,11 @@
+👋 Hi, I’m Fahad Shaikh
+💻 Working as Data Scientist an Endeavor Holding Group
+🧑‍🎓 Currently pursuing Masters in data science at PACE University 
+👀 I’m interested in LLM, NLP, Machine Learning
+🌱 I’m learning LLM finetuning and LLM evaluation
+💞️ I’m looking to collaborate on Kaggle competitions related to NLP, LLM
+📫 Drop a message in LinkedIn
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahad-shaikh-b807b6147/) 
 
