@@ -18,11 +18,7 @@
 - ⏱️ `Citi Bike Forecasting`: ML + time series + weather data  
 - 🧳 `Flight Delay Classification`: Hive + XGBoost + SMOTE + feature engineering
 
-📊 **Goal (May–July 2025)**  
-- Publish a deep learning paper  
-- Secure a research-based or applied ML/AI internship (target: Google, Meta, OpenAI)
 
----
 
 ## 💡 Skills & Tools
 
