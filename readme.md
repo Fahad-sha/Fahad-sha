@@ -20,11 +20,6 @@
 - 🧳 `Flight Delay Classification`: AWS EMR + Hive + XGBoost + feature engineering  
 - 🚴 `Citi Bike Forecasting`: ML time series + weather + trend modeling
 
-📊 **Short-Term Goals (May–July 2025)**
-- Publish a deep learning research paper  
-- Land an internship or research role (targeting: Google, Meta, OpenAI)
-
----
 
 ## 💡 Tech & Tools
 
