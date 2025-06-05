@@ -23,12 +23,54 @@
 
 ## 💡 Tech & Tools
 
-**Languages**: Python, SQL, R  
-**ML/DL**: PyTorch, TensorFlow, XGBoost, scikit-learn, LangChain, Hugging Face  
-**NLP/LLMs**: TinyLlama, QLoRA, PEFT, Unsloth, Transformers  
-**Data Platforms**: Snowflake, Hive, Azure Databricks, AWS EMR, Redshift  
-**Visualization**: Power BI, Tableau, Plotly, Microsoft Fabric  
-**DevOps**: Git, Docker, Kubernetes, CI/CD pipelines  
+## 💡 Tech & Tools
+
+### 🧠 Machine Learning & Deep Learning
+- **Classical ML**: Logistic Regression, Random Forest, Decision Trees, KNN, SVM, XGBoost, LightGBM, Prophet, ARIMA
+- **Deep Learning**: CNNs, RNNs, MLPs, Attention Mechanisms, Transformers, Autoencoders
+- **Libraries/Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, PyCaret, fastai
+
+### 🤖 NLP & LLMs
+- **LLM Fine-Tuning**: QLoRA, LoRA, PEFT with [Unsloth](https://unsloth.ai/)
+- **Model Architectures**: GPT (2/3/4), BERT, TinyLlama, Falcon, Mistral, T5, DistilBERT
+- **NLP Tasks**: Named Entity Recognition, Text Classification, Semantic Search, Sentiment Analysis, Summarization
+- **Toolkits & Frameworks**: Hugging Face Transformers, LangChain, spaCy, NLTK, OpenAI API
+- **Vector Stores**: ChromaDB, FAISS, Weaviate (for RAG applications)
+
+### 🌐 MLOps & Deployment
+- **Experiment Tracking**: MLflow, Weights & Biases (W&B)
+- **Deployment**: FastAPI, Flask, Streamlit, Dockerized APIs
+- **CI/CD**: GitHub Actions, GitLab CI, Jenkins
+- **Containerization & Orchestration**: Docker, Kubernetes (basic)
+
+### 🛠️ Data Engineering & Big Data
+- **ETL Pipelines**: Python (Pandas, Airflow), Azure Data Factory, AWS Glue
+- **Big Data Frameworks**: Hive, Spark (basic), AWS EMR
+- **Cloud Storage**: S3, Azure Blob, Google Drive API
+- **Databases**: Snowflake, PostgreSQL, MySQL, MongoDB, Oracle DB, Redshift
+
+### 📈 Business Intelligence & Visualization
+- **Dashboards & Reports**: Power BI, Tableau, Visier Dashboards, Microsoft Fabric
+- **Python Visualizations**: Plotly, Matplotlib, Seaborn, Altair
+- **HR BI Platforms**: Visier (Attrition, DEI, Exit, Tenure Dashboards), Workday Prism, Microsoft Viva Insights
+
+### 🧪 Scientific Computing & Analysis
+- **Core Libraries**: NumPy, SciPy, Pandas, Statsmodels
+- **Math & Stats**: Linear Algebra, Probability, Hypothesis Testing, Gradient Descent, PCA, Feature Selection
+
+### 💻 Programming & Scripting
+- **Languages**: Python (Expert), SQL (Advanced), R (Intermediate), Bash (Basic), JavaScript (Basic)
+
+### ☁️ Cloud Ecosystem
+- **AWS**: S3, EC2, EMR, Redshift, SageMaker (basic)
+- **Azure**: Azure Data Factory, Azure Databricks, Azure Synapse
+- **Google Cloud**: Colab, BigQuery (basic), Vertex AI (learning)
+
+### 🧰 DevOps & Collaboration
+- **Version Control**: Git, GitHub, GitLab
+- **Project Tools**: JIRA, Confluence, Trello, Slack
+- **Methodologies**: Agile, Scrum, CRISP-DM, Kanban
+
 
 ---
 
