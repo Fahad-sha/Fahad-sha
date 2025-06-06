@@ -22,57 +22,24 @@
 
 
 ## 💡 Tech & Tools
+🤖 Machine Learning: Regression, Trees, SVM, XGBoost, Prophet
+🧠 Deep Learning: CNNs, RNNs, Transformers
+<sub><sup>PyTorch, TensorFlow, scikit-learn, Keras, fastai</sup></sub>
 
-## 💡 Tech & Tools
+📝 NLP & LLMs: GPT, BERT, T5, Fine-tuning (LoRA/QLoRA/Unsloth), RAG
+<sub><sup>Hugging Face 🤗, LangChain, spaCy, NLTK</sup></sub>
 
-### 🧠 Machine Learning & Deep Learning
-- **Classical ML**: Logistic Regression, Random Forest, Decision Trees, KNN, SVM, XGBoost, LightGBM, Prophet, ARIMA
-- **Deep Learning**: CNNs, RNNs, MLPs, Attention Mechanisms, Transformers, Autoencoders
-- **Libraries/Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, PyCaret, fastai
+🚦 MLOps & Deployment: MLflow, W&B, Docker 🐳, FastAPI, Streamlit, CI/CD (GitHub Actions :octocat:, Jenkins), Kubernetes (basic)
 
-### 🤖 NLP & LLMs
-- **LLM Fine-Tuning**: QLoRA, LoRA, PEFT with [Unsloth](https://unsloth.ai/)
-- **Model Architectures**: GPT (2/3/4), BERT, TinyLlama, Falcon, Mistral, T5, DistilBERT
-- **NLP Tasks**: Named Entity Recognition, Text Classification, Semantic Search, Sentiment Analysis, Summarization
-- **Toolkits & Frameworks**: Hugging Face Transformers, LangChain, spaCy, NLTK, OpenAI API
-- **Vector Stores**: ChromaDB, FAISS, Weaviate (for RAG applications)
+🛠️ Data Engineering: Pandas, Airflow, Hive, Spark, AWS Glue
+<sub><sup>Snowflake ❄️, S3, SQL, NoSQL (MongoDB 🍃)</sup></sub>
 
-### 🌐 MLOps & Deployment
-- **Experiment Tracking**: MLflow, Weights & Biases (W&B)
-- **Deployment**: FastAPI, Flask, Streamlit, Dockerized APIs
-- **CI/CD**: GitHub Actions, GitLab CI, Jenkins
-- **Containerization & Orchestration**: Docker, Kubernetes (basic)
+📊 BI & Visualization: Power BI, Tableau, Plotly, Matplotlib
+👔 HR Analytics: Visier, Workday Prism
 
-### 🛠️ Data Engineering & Big Data
-- **ETL Pipelines**: Python (Pandas, Airflow), Azure Data Factory, AWS Glue
-- **Big Data Frameworks**: Hive, Spark (basic), AWS EMR
-- **Cloud Storage**: S3, Azure Blob, Google Drive API
-- **Databases**: Snowflake, PostgreSQL, MySQL, MongoDB, Oracle DB, Redshift
+💻 Programming: Python 🐍 (expert), SQL, R, Bash, JavaScript
 
-### 📈 Business Intelligence & Visualization
-- **Dashboards & Reports**: Power BI, Tableau, Visier Dashboards, Microsoft Fabric
-- **Python Visualizations**: Plotly, Matplotlib, Seaborn, Altair
-- **HR BI Platforms**: Visier (Attrition, DEI, Exit, Tenure Dashboards), Workday Prism, Microsoft Viva Insights
-
-### 🧪 Scientific Computing & Analysis
-- **Core Libraries**: NumPy, SciPy, Pandas, Statsmodels
-- **Math & Stats**: Linear Algebra, Probability, Hypothesis Testing, Gradient Descent, PCA, Feature Selection
-
-### 💻 Programming & Scripting
-- **Languages**: Python (Expert), SQL (Advanced), R (Intermediate), Bash (Basic), JavaScript (Basic)
-
-### ☁️ Cloud Ecosystem
-- **AWS**: S3, EC2, EMR, Redshift, SageMaker (basic)
-- **Azure**: Azure Data Factory, Azure Databricks, Azure Synapse
-- **Google Cloud**: Colab, BigQuery (basic), Vertex AI (learning)
-
-### 🧰 DevOps & Collaboration
-- **Version Control**: Git, GitHub, GitLab
-- **Project Tools**: JIRA, Confluence, Trello, Slack
-- **Methodologies**: Agile, Scrum, CRISP-DM, Kanban
-
-
----
+☁️ Cloud: AWS ☁️, Azure, GCP, Databricks, Synapse
 
 ## 🏆 Achievements
 
