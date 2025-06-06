@@ -23,11 +23,9 @@
 
 ## 💡 Tech & Tools
 🤖 Machine Learning: Regression, Trees, SVM, XGBoost, Prophet
-🧠 Deep Learning: CNNs, RNNs, Transformers
-<sub><sup>PyTorch, TensorFlow, scikit-learn, Keras, fastai</sup></sub>
+🧠 Deep Learning: CNNs, RNNs, Transformers ,PyTorch, TensorFlow, scikit-learn, Keras, fastai
 
-📝 NLP & LLMs: GPT, BERT, T5, Fine-tuning (LoRA/QLoRA/Unsloth), RAG
-<sub><sup>Hugging Face 🤗, LangChain, spaCy, NLTK</sup></sub>
+📝 NLP & LLMs: GPT, BERT, T5, Fine-tuning (LoRA/QLoRA/Unsloth), RAG, Hugging Face 🤗, LangChain, spaCy, NLTK
 
 🚦 MLOps & Deployment: MLflow, W&B, Docker 🐳, FastAPI, Streamlit, CI/CD (GitHub Actions :octocat:, Jenkins), Kubernetes (basic)
 
