@@ -29,8 +29,7 @@
 
 🚦 MLOps & Deployment: MLflow, W&B, Docker 🐳, FastAPI, Streamlit, CI/CD (GitHub Actions :octocat:, Jenkins), Kubernetes (basic)
 
-🛠️ Data Engineering: Pandas, Airflow, Hive, Spark, AWS Glue
-<sub><sup>Snowflake ❄️, S3, SQL, NoSQL (MongoDB 🍃)</sup></sub>
+🛠️ Data Engineering: Pandas, Airflow, Hive, Spark, AWS Glue Snowflake ❄️, S3, SQL, NoSQL (MongoDB 🍃)
 
 📊 BI & Visualization: Power BI, Tableau, Plotly, Matplotlib
 👔 HR Analytics: Visier, Workday Prism
