@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Fahad Shaikh
 
 💼 I'm a **Data Scientist at [Endeavor Group Holdings](https://www.endeavorco.com/)** where I’ve built people analytics systems for brands like **UFC**, **WWE**, **IMG**, and **WME**.  
-🎓 Pursuing my **MS in Data Science** at [Pace University, NYC](https://www.pace.edu/) (GPA: 4.0).  
+🎓 Pursuing my **MS in Data Science** at [Pace University, NYC](https://www.pace.edu/) 
 🧠 Formerly at **Mu Sigma**, I’ve delivered ML solutions for **Microsoft**, **Citigroup**, **Walmart**, and **LSEG**.
 
 ---
@@ -14,7 +14,6 @@
 - LLM evaluation, prompt engineering, and scalable summarization tools
 
 🧠 **Notable Projects**
-- 🛡️ `AI CyberSentinel`: LLM-powered threat detection & incident summarization  
 - 📺 `YouTube Summarizer`: Combines transcript + visuals to summarize [3Blue1Brown](https://www.3blue1brown.com/) using TinyLlama  
 - 📈 `Marketing Generator`: AI-powered content creator for brand campaigns  
 - 🧳 `Flight Delay Classification`: AWS EMR + Hive + XGBoost + feature engineering  
