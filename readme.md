@@ -1,67 +1,108 @@
 # 👋 Hi, I’m Fahad Shaikh
 
-💼 I'm a **Data Scientist at [Endeavor Group Holdings](https://www.endeavorco.com/)** where I’ve built people analytics systems for brands like **UFC**, **WWE**, **IMG**, and **WME**.  
-🎓 Pursuing my **MS in Data Science** at [Pace University, NYC](https://www.pace.edu/) 
-🧠 Formerly at **Mu Sigma**, I’ve delivered ML solutions for **Microsoft**, **Citigroup**, **Walmart**, and **LSEG**.
+I’m a **Data Scientist / ML Engineer** focused on **applied AI systems, LLMs, and research-driven machine learning**, with experience building production-grade analytics and intelligent systems across **media, finance, and enterprise domains**.
+
+💼 **Data Scientist @ Endeavor Group Holdings**  
+Designing and deploying **people analytics platforms** used by brands like **UFC, WWE, IMG, and WME**
+
+🎓 **MS in Data Science, Pace University (NYC)**  
+🧠 Formerly at **Mu Sigma**, delivering ML and decision-science solutions for **Microsoft, Citigroup, Walmart, and LSEG**
+
+My work sits at the intersection of **machine learning, deep learning, systems design, and real-world deployment**.
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Working On Now
 
-🔬 **AI + LLM Innovation**  
-- Finetuning models like TinyLlama using [Unsloth](https://unsloth.ai/)  
-- RAG pipelines with LangChain, ChromaDB, and GPT-4  
-- LLM evaluation, prompt engineering, and scalable summarization tools
+### 🔬 Advanced AI & LLM Systems
+- Fine-tuning **small, efficient LLMs** (TinyLlama, LoRA/QLoRA) under **real GPU constraints**
+- Building **RAG pipelines** with LangChain, vector databases, evaluation layers, and cost-aware orchestration
+- Exploring **LLM evaluation, prompt optimization, agent design, and failure modes**
+- Designing **end-to-end GenAI systems** (data → model → infra → UI), not just demos
 
-🧠 **Notable Projects**
-- 📺 `YouTube Summarizer`: Combines transcript + visuals to summarize [3Blue1Brown](https://www.3blue1brown.com/) using TinyLlama  
-- 📈 `Marketing Generator`: AI-powered content creator for brand campaigns  
-- 🧳 `Flight Delay Classification`: AWS EMR + Hive + XGBoost + feature engineering  
-- 🚴 `Citi Bike Forecasting`: ML time series + weather + trend modeling
+### 🧠 Research-Driven Exploration
+- Studying and extending **JEPA-style self-supervised architectures (I-JEPA / V-JEPA)**
+- Investigating **representation learning, world models, and predictive embeddings**
+- Bridging **theory → implementation → experiments** with publishable research directions
 
+---
 
-## 💡 Tech & Tools
-🤖 Machine Learning: Regression, Trees, SVM, XGBoost, Prophet
-🧠 Deep Learning: CNNs, RNNs, Transformers ,PyTorch, TensorFlow, scikit-learn, Keras, fastai
+## 🧩 Selected Projects
 
-📝 NLP & LLMs: GPT, BERT, T5, Fine-tuning (LoRA/QLoRA/Unsloth), RAG, Hugging Face 🤗, LangChain, spaCy, NLTK
+- **📺 Multimodal YouTube Summarizer**  
+  End-to-end system combining **audio transcripts + visual signals** to generate structured summaries of **3Blue1Brown** content using TinyLlama and RAG.
 
-🚦 MLOps & Deployment: MLflow, W&B, Docker 🐳, FastAPI, Streamlit, CI/CD (GitHub Actions :octocat:, Jenkins), Kubernetes (basic)
+- **🧠 DashPilot – AI Analyst Agent (React)**  
+  Interactive analytics dashboard where an **AI agent interprets datasets**, suggests widgets, and explains trends.
 
-🛠️ Data Engineering: Pandas, Airflow, Hive, Spark, AWS Glue Snowflake ❄️, S3, SQL, NoSQL (MongoDB 🍃)
+- **📈 Marketing Content Generator**  
+  AI-powered content creation engine for marketing teams, focused on scalable generation, prompt control, and evaluation.
 
-📊 BI & Visualization: Power BI, Tableau, Plotly, Matplotlib
-👔 HR Analytics: Visier, Workday Prism
+- **🧳 Flight Delay Classification**  
+  Large-scale pipeline using **AWS EMR + Hive + XGBoost**, advanced feature engineering, and robust evaluation.
 
-💻 Programming: Python 🐍 (expert), SQL, R, Bash, JavaScript
+- **🚴 Citi Bike Time-Series Forecasting**  
+  Forecasting daily trip patterns using **ML + weather signals + trend modeling**, with rigorous validation.
 
-☁️ Cloud: AWS ☁️, Azure, GCP, Databricks, Synapse
+---
+
+## 🛠️ Tech & Tools
+
+### 🤖 Machine Learning
+Regression, Trees, SVMs, XGBoost, Prophet, Feature Engineering, SMOTE, Model Evaluation
+
+### 🧠 Deep Learning
+CNNs, RNNs, Transformers  
+PyTorch, TensorFlow, Keras, scikit-learn, fastai
+
+### 📝 NLP & LLMs
+GPT, BERT, T5  
+Fine-tuning (LoRA / QLoRA / Unsloth), RAG, Hugging Face, LangChain, spaCy, NLTK
+
+### 🚦 MLOps & Deployment
+MLflow, Weights & Biases, Docker, FastAPI, Streamlit  
+CI/CD (GitHub Actions, Jenkins), Kubernetes (basic)
+
+### 🛠️ Data Engineering
+Pandas, Spark, Hive, Airflow  
+AWS Glue, Snowflake, S3  
+SQL, NoSQL (MongoDB)
+
+### 📊 BI & Analytics
+Power BI, Tableau, Plotly, Matplotlib  
+HR Analytics: Visier, Workday Prism
+
+### 💻 Programming
+Python (expert), SQL, R, Bash, JavaScript
+
+### ☁️ Cloud & Platforms
+AWS, Azure, GCP, Databricks, Synapse
+
+---
 
 ## 🏆 Achievements
 
-- 🏅 **Impact Award @ LSEG**: Redesigned revenue-risk model saving $400K/yr  
-- 🏆 **Spot Awards @ Mu Sigma**: Delivered ML solutions for Microsoft & Citigroup  
-- 📃 **Academic Paper Tool**: Built citation-aware RAG system for research  
-- 🎖️ Smart India Hackathon Finalist
+- 🏅 **Impact Award @ LSEG** – Redesigned revenue-risk model saving ~$400K/year  
+- 🏆 **Spot Awards @ Mu Sigma** – Delivered ML solutions for Microsoft & Citigroup  
+- 📄 Built a **citation-aware RAG system** for academic research workflows  
+- 🎖️ **Smart India Hackathon Finalist**
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Collaboration & Interests
 
-I'm open to:
-- NLP/LLM Kaggle competitions  
-- Open-source projects with RAG, summarization, cybersecurity, or marketing AI  
-- Research partnerships on applied ML/DL problems
-
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/fahad-shaikh-b807b6147/)  
-🌐 [View My Portfolio](https://fahad-sha.github.io/)
+I’m open to:
+- Open-source work in **LLMs, RAG, agentic AI, cybersecurity, or marketing AI**
+- **Applied ML / DL research collaborations**
+- Systems-oriented projects that connect **theory with production**
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-shaikh-b807b6147/)  
-[![GitHub Pages](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=githubpages&logoColor=white)](https://fahad-sha.github.io/)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/fahad-shaikh-b807b6147/
+- 🌍 **Portfolio:** https://fahad-sha.github.io/
+- 💻 **GitHub:** https://github.com/Fahad-sha
 
 
 # 💻 Tech Stack:
