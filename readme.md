@@ -1,71 +1,116 @@
 # 👋 Hi, I’m Fahad Shaikh
 
-I’m a **Data Scientist / ML Engineer** focused on **applied AI systems, LLMs, and research-driven machine learning**, with experience building production-grade analytics and intelligent systems across **media, finance, and enterprise domains**.
+I’m a **Data Scientist / ML Engineer** focused on **applied AI systems, LLMs, and research-driven machine learning**.  
+My work centers on building **end-to-end intelligent systems** that connect **theory, modeling, infrastructure, and real-world use cases**.
 
-💼 **Data Scientist @ Endeavor Group Holdings**  
-Designing and deploying **people analytics platforms** used by brands like **UFC, WWE, IMG, and WME**
+I care less about toy demos and more about **systems that hold up under constraints**: limited GPUs, noisy data, evaluation gaps, and production realities.
 
-🎓 **MS in Data Science, Pace University (NYC)**  
-🧠 Formerly at **Mu Sigma**, delivering ML and decision-science solutions for **Microsoft, Citigroup, Walmart, and LSEG**
+---
 
-My work sits at the intersection of **machine learning, deep learning, systems design, and real-world deployment**.
+## 💼 Experience
+
+### **Data Scientist (AI Research & People Analytics)**  
+**Endeavor Group Holdings** · NYC / Remote  
+- Built and maintained **people analytics platforms** used across **UFC, WWE, IMG, and WME**
+- Designed **ML pipelines and analytical systems** on workforce data (attrition, performance, engagement)
+- Integrated **LLM-based summarization and insight-generation** into HR analytics workflows
+- Delivered executive-facing dashboards and self-serve analytics using **Snowflake, Power BI, and Python**
+- Worked at the intersection of **data science, product, and stakeholders**, translating ambiguous business problems into deployable solutions
+
+---
+
+### **Decision Scientist / Data Scientist**  
+**Mu Sigma** · Bengaluru  
+- Delivered **ML and decision-science solutions** for Fortune 500 clients including **Microsoft, Citigroup, Walmart, and LSEG**
+- Built predictive models, optimization frameworks, and analytics pipelines for revenue risk, forecasting, and customer behavior
+- Received multiple **Spot Awards** for high-impact delivery and client outcomes
+- Awarded **Impact Award @ LSEG** for redesigning a revenue-risk model saving ~$400K/year
+
+---
+
+### 🎓 Education
+**MS in Data Science**  
+**Pace University, New York City**  
+Focus: Machine Learning, Deep Learning, Statistical Modeling, AI Systems
 
 ---
 
 ## 🚀 What I’m Working On Now
 
-### 🔬 Advanced AI & LLM Systems
-- Fine-tuning **small, efficient LLMs** (TinyLlama, LoRA/QLoRA) under **real GPU constraints**
-- Building **RAG pipelines** with LangChain, vector databases, evaluation layers, and cost-aware orchestration
-- Exploring **LLM evaluation, prompt optimization, agent design, and failure modes**
-- Designing **end-to-end GenAI systems** (data → model → infra → UI), not just demos
+### 🔬 LLM & GenAI Systems (Primary Focus)
+- Fine-tuning **small and efficient LLMs** (TinyLlama, QLoRA, Unsloth) under **real GPU constraints**
+- Designing **cost-aware, evaluation-driven RAG pipelines**
+- Building **agentic AI systems** that reason over data, tools, and context
+- Studying **failure modes, hallucinations, and evaluation gaps** in LLM systems
 
-### 🧠 Research-Driven Exploration
-- Studying and extending **JEPA-style self-supervised architectures (I-JEPA / V-JEPA)**
-- Investigating **representation learning, world models, and predictive embeddings**
-- Bridging **theory → implementation → experiments** with publishable research directions
+### 🧠 Research-Oriented ML
+- Deep dive into **JEPA-style self-supervised learning** (I-JEPA / V-JEPA)
+- Exploring **representation learning, world models, and predictive embeddings**
+- Translating papers → code → experiments with **publishable extensions in mind**
 
 ---
 
-## 🧩 Selected Projects
+## 🧩 Selected Projects (Current Portfolio)
 
-- **📺 Multimodal YouTube Summarizer**  
-  End-to-end system combining **audio transcripts + visual signals** to generate structured summaries of **3Blue1Brown** content using TinyLlama and RAG.
+### 🧠 **DashPilot – AI Analyst Agent**
+**React + Python + LLMs**
+- An AI-powered analytics agent that **interprets datasets**, suggests widgets, and explains insights
+- Focus on **agent reasoning, UI integration, and human-in-the-loop analytics**
+- Designed to work with **local data, cloud backends, and RAG-based explanations**
 
-- **🧠 DashPilot – AI Analyst Agent (React)**  
-  Interactive analytics dashboard where an **AI agent interprets datasets**, suggests widgets, and explains trends.
+---
 
-- **📈 Marketing Content Generator**  
-  AI-powered content creation engine for marketing teams, focused on scalable generation, prompt control, and evaluation.
+### 🔎 **Smart Research Assistant (RAG System)**
+- End-to-end **research assistant** for papers, reports, and documents
+- Uses **embeddings, vector search, and citation-aware generation**
+- Emphasis on **retrieval quality, grounding, and traceability**
 
-- **🧳 Flight Delay Classification**  
-  Large-scale pipeline using **AWS EMR + Hive + XGBoost**, advanced feature engineering, and robust evaluation.
+---
 
-- **🚴 Citi Bike Time-Series Forecasting**  
-  Forecasting daily trip patterns using **ML + weather signals + trend modeling**, with rigorous validation.
+### 🧠 **JEPA-Inspired Representation Learning Experiments**
+- Implementations and experiments based on **I-JEPA / V-JEPA**
+- Focus on **predictive embeddings without reconstruction**
+- Exploring extensions toward **generative and downstream-task adaptation**
+
+---
+
+### 🛡️ **AI CyberSentinel (In Progress)**
+- LLM-assisted **cybersecurity signal summarization and threat analysis**
+- Combines structured logs + unstructured signals with **agent-based reasoning**
+- Designed as a **real-time, analyst-assist system**, not a static classifier
+
+---
+
+### 📊 **Earnings Call & Document Intelligence Pipeline**
+- RAG-based system to analyze **earnings calls, transcripts, and reports**
+- Structured summaries, sentiment cues, and key risk extraction
+- Built with **modular orchestration for multi-LLM backends**
 
 ---
 
 ## 🛠️ Tech & Tools
 
 ### 🤖 Machine Learning
-Regression, Trees, SVMs, XGBoost, Prophet, Feature Engineering, SMOTE, Model Evaluation
+Regression, Tree Models, XGBoost, Feature Engineering, SMOTE, Evaluation (ROC, CM, PR)
 
 ### 🧠 Deep Learning
 CNNs, RNNs, Transformers  
-PyTorch, TensorFlow, Keras, scikit-learn, fastai
+PyTorch, TensorFlow, Keras, fastai
 
 ### 📝 NLP & LLMs
 GPT, BERT, T5  
-Fine-tuning (LoRA / QLoRA / Unsloth), RAG, Hugging Face, LangChain, spaCy, NLTK
+Fine-tuning (LoRA / QLoRA / Unsloth)  
+RAG, Hugging Face, LangChain, spaCy, NLTK
 
 ### 🚦 MLOps & Deployment
-MLflow, Weights & Biases, Docker, FastAPI, Streamlit  
-CI/CD (GitHub Actions, Jenkins), Kubernetes (basic)
+MLflow, Weights & Biases  
+Docker, FastAPI, Streamlit  
+CI/CD (GitHub Actions, Jenkins)  
+Kubernetes (foundational)
 
 ### 🛠️ Data Engineering
 Pandas, Spark, Hive, Airflow  
-AWS Glue, Snowflake, S3  
+Snowflake, AWS Glue, S3  
 SQL, NoSQL (MongoDB)
 
 ### 📊 BI & Analytics
@@ -75,34 +120,35 @@ HR Analytics: Visier, Workday Prism
 ### 💻 Programming
 Python (expert), SQL, R, Bash, JavaScript
 
-### ☁️ Cloud & Platforms
+### ☁️ Cloud
 AWS, Azure, GCP, Databricks, Synapse
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-- 🏅 **Impact Award @ LSEG** – Redesigned revenue-risk model saving ~$400K/year  
-- 🏆 **Spot Awards @ Mu Sigma** – Delivered ML solutions for Microsoft & Citigroup  
-- 📄 Built a **citation-aware RAG system** for academic research workflows  
+- 🏅 **Impact Award @ LSEG** – ~$400K/year savings
+- 🏆 Multiple **Spot Awards @ Mu Sigma**
+- 📄 Built **citation-aware RAG systems** for research workflows
 - 🎖️ **Smart India Hackathon Finalist**
 
 ---
 
-## 🤝 Collaboration & Interests
+## 🤝 Collaboration
 
-I’m open to:
-- Open-source work in **LLMs, RAG, agentic AI, cybersecurity, or marketing AI**
-- **Applied ML / DL research collaborations**
-- Systems-oriented projects that connect **theory with production**
+Interested in:
+- **LLMs, RAG, agentic AI, and AI systems**
+- Research-driven applied ML/DL projects
+- Open-source work that values **depth over hype**
 
 ---
 
 ## 🌐 Connect
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/fahad-shaikh-b807b6147/
-- 🌍 **Portfolio:** https://fahad-sha.github.io/
-- 💻 **GitHub:** https://github.com/Fahad-sha
+- 🔗 LinkedIn: https://www.linkedin.com/in/fahad-shaikh-b807b6147/
+- 🌍 Portfolio: https://fahad-sha.github.io/
+- 💻 GitHub: https://github.com/Fahad-sha
+
 
 
 # 💻 Tech Stack:
